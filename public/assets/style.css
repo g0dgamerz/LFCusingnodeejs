@@ -1,0 +1,21 @@
+#logo {
+    width: 100px;
+    height: 100px;
+}
+.bg{
+    background-color: darkred;
+
+}
+.gold{
+    color: gold;
+}
+body{
+    background-image: url('https://wallpaperbro.com/img/67334.jpg');
+    background-size: 1500px 700px;
+    color:whitesmoke;
+
+}
+td{
+    background-color:rgba(70, 130, 180, 0.6)
+
+}
